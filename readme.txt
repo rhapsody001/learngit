@@ -1,4 +1,2 @@
-    2019
- Note that the only valid version of the GPL as far as this project
- is concerned is _this_ particular version of the license (ie v2, not
- v2.2 or v3.x or whatever), unless explicitly otherwise stated.
+Git is a distributed version control system.
+Git is free software.
